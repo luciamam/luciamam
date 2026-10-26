@@ -1,4 +1,10 @@
-# ¡Hola!  Soy Lucia Mansogo 
 
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Banner de Lucia Mansogo">
+</div>
 
-Bienvenidos a mi perfil de GitHub 💻
+# ¡Hola! Soy Lucia Mansogo 👋
+
+💻 Desarrolladora profesional
+
+Bienvenidos a mi perfil de GitHub.
