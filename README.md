@@ -13,3 +13,18 @@
 - 🛠️ Trabajo con Python, JavaScript, HTML, CSS, Vue.js, Flask , MySQL,MongoDB y Firebase.
 - 🎯 Mi objetivo es crear soluciones útiles, eficientes y creativas.
   
+
+
+
+## 📊 Mis estadísticas de GitHub
+
+### 💻 Lenguajes más utilizados
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=luciamam&layout=compact&theme=tokyonight)
+  
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luciamam&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Lucia Mansogo" />
+</div>
