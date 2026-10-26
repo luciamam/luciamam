@@ -1,6 +1,17 @@
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Banner de Lucia Mansogo" />
+</div>
+
+<h1 align="center">¡Hola! Soy Lucia Mansogo 👋</h1>
+
+<p align="center">
+  <strong>💻 Desarrolladora profesional</strong><br />
+  Apasionada por crear aplicaciones web y transformar ideas en soluciones reales.
+</p>
 
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Banner de Lucia Mansogo">
+  <img src="https://img.shields.io/github/followers/luciamam?style=for-the-badge&logo=github&logoColor=F5E6D2&label=Seguidores&labelColor=4A281C&color=C88D62" alt="Seguidores de GitHub" />
+  <img src="https://img.shields.io/badge/Desarrollo-Web-895638?style=for-the-badge&labelColor=4A281C" alt="Desarrollo web" />
 </div>
 
 
