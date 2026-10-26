@@ -40,25 +40,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciamam&layout=compact&bg_color=211712&title_color=E6B98D&text_color=F5E6D2&border_color=895638" alt="Lenguajes más utilizados" />
 </div>
 
-<h2 align="center">💻 Aquí encontrarás código en:</h2>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=800&color=F5A623&center=true&vCenter=true&width=500&lines=Python;JavaScript;Vue.js;Flask;MySQL;HTML;CSS" alt="Lenguajes de programación animados" />
-</div>
-  
-  
-
-
-
-## 📊 Mis estadísticas de GitHub
-
-### 💻 Lenguajes más utilizados
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=luciamam&layout=compact&theme=tokyonight)
-  
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luciamam&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Lucia Mansogo" />
-</div>
+<p align="center"><em>🤎 Tecnología · Ideas · Proyectos · Crecimiento</em></p>
